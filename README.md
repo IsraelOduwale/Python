@@ -1,5 +1,5 @@
 # Python
-This repository is for python projects
+This repository is for python projects and their data
 
 Uploaded DictionaryEmadeStore code 03/17/2026
 
