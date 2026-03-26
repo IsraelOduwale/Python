@@ -12,3 +12,7 @@ Uploaded ExploratoryDataAnalysisEmadeStore project 03/17/2026
 Uploaded ExploratoryDataAnalysisMembership project 03/17/2026
 
 Uploaded TestingAPI 03/17/2026
+
+uploaded OnlineRetails project 03/26/2026
+
+uploaded orders end to end project (python and sql) 03/26/2026
